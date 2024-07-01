@@ -1,5 +1,9 @@
 # 直连列表
 DOMAIN-SUFFIX,esvc.smlines.com
+DOMAIN,www.kbstar.com
+DOMAIN,www.hjit.co.kr
+DOMAIN,www.plism.com
+DOMAIN,www.wanhai.com
 DOMAIN-SUFFIX,kbstar.com
 DOMAIN-SUFFIX,hjit.co.kr
 DOMAIN-SUFFIX,wanhai.com
