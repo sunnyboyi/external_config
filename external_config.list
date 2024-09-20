@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,15887924.com
 IP-CIDR,119.205.217.0/24,no-resolve
 IP-CIDR,211.195.172.0/24,no-resolve
 DOMAIN,www.forwarder.kr
+DOMAIN,www.plism.com
+DOMAIN-SUFFIX,plism.com
