@@ -14,6 +14,7 @@ DOMAIN,aida.googleapis.com
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # Meta AI
 DOMAIN,imagine.meta.com
