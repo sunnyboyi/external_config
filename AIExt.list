@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,meta.ai
 
 #claude
 DOMAIN-SUFFIX,console.anthropic.com
+DOMAIN,www.anthropic.com
 DOMAIN,anthropic.com
 DOMAIN,claude.ai
 DOMAIN,console.anthropic.com
