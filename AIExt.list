@@ -19,3 +19,10 @@ DOMAIN-SUFFIX,googleusercontent.com
 # Meta AI
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
+
+#claude
+DOMAIN-SUFFIX,console.anthropic.com
+DOMAIN,anthropic.com
+DOMAIN,claude.ai
+DOMAIN,console.anthropic.com
+DOMAIN,anthropic.com
