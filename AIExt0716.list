@@ -16,6 +16,8 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 
+# OpenAI
+DOMAIN-SUFFIX,chatgpt.com
 # Meta AI
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
