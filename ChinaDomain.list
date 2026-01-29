@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,wanhai.com
 DOMAIN-SUFFIX,plism.com
 DOMAIN,papago.naver.com
 DOMAIN,www.wooribank.com
+IP-CIDR,43.130.44.122/32
