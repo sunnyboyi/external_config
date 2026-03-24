@@ -22,8 +22,23 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 
-#claude
+# claude
+# === 核心主域名 (包含您的原有配置) ===
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN,claude.ai
-DOMAIN,console.anthropic.com
-DOMAIN,platform.claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,awesomeclaude.ai
+DOMAIN-SUFFIX,leclaude.ai
+DOMAIN-SUFFIX,rbclaude.ai
+
+# === 第三方服务及特殊 CNAME (精准匹配，防误杀) ===
+DOMAIN,anthropic.gallerycdn.vsassets.io
+DOMAIN,anthropic.gallery.vsassets.io
+DOMAIN,anthropic.qualtrics.com
+DOMAIN,anthropic.skilljar.com
+DOMAIN,anthropic-timeline.vercel.app
+DOMAIN,www.anthropic.com.cdn.cloudflare.net
+
+# === 其他相关/包含关键字的域名 ===
+DOMAIN,hostmaster.philanthropic.capital
+DOMAIN,pithecanthropic.bukhara.su
