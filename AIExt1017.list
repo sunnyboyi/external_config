@@ -8,7 +8,8 @@ DOMAIN,www.bing.com
 # Gemini
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
-DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
